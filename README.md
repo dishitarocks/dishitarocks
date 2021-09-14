@@ -5,7 +5,6 @@
 - 🔥 I would describe myself as an avid learner with an immense passion for technology
 - ✨ I am a very confident person with excellent communication skills and leadership qualities
 - ✌ Always open to new opportunities and a good tech discussion☕
-- 💞️ I’m looking to collaborate on 
 
 ## Currently learning and interested in:
 - Web Development, Cloud Computing, Data Science, Finance
