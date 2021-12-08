@@ -6,8 +6,7 @@
 
 <h3 align="center"> <img src= "https://github.com/garvitraj/dihita-readme/blob/main/animation_200_kwwwjbto.gif" width = "30px" height="30px"/>  Symbiosis Institute of Technology <img src= "https://github.com/garvitraj/dihita-readme/blob/main/loc.gif" width = "25px" height="25px"/>  Pune, India</h3>
  
-<h3 align="center"> <img src= "https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=I+am+Computer+Science+Undergraduate+;I+am+an
-  Aspiring+Software+Engineer;Community+Growth+and+Product" > </h3> <hr>
+<h3 align="center"> <img src= "https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=I+am+a+Computer+Science+Undergraduate+;I+am+an+Aspiring+Software+Engineer;Community+Growth+and+Product" > </h3> <hr>
 
 <h4 align="center"> 📝 Sophomore, pursuing Btech Computer Science at Symbiosis Institute of Technology, Pune </h4>
 <h4 align="center"> ⚡ Beta- Microsoft Learn Student Ambassador | Track Leader at Microsoft Edge Addons Community(MLSA) | vGHC Scholar'21 </h4>
