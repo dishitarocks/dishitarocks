@@ -4,14 +4,14 @@
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Dishita Bhasin</h1>
 
-<h3 align="center"> <img src= "https://github.com/garvitraj/dihita-readme/blob/main/animation_200_kwwwjbto.gif" width = "30px" height="30px"/>  Symbiosis Institute of Technology <img src= "https://github.com/garvitraj/dihita-readme/blob/main/loc.gif" width = "25px" height="25px"/>  Pune, India</h3>
+<h3 align="center"> <img src= "https://github.com/garvitraj/dihita-readme/blob/main/animation_200_kwwwjbto.gif" width = "30px" height="30px"/>  Symbiosis Institute of Technology <img src= "https://github.com/garvitraj/dihita-readme/blob/main/loc.gif" width = "25px" height="25px"/> Pune, India</h3>
  
 <h3 align="center"> <img src= "https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=I+am+a+Computer+Science+Undergraduate+;I+am+an+Aspiring+Software+Engineer;Community+Growth+and+Product" > </h3> <hr>
 
 <h4 align="center"> 📝 Pre-final year student, pursuing Btech Computer Science at Symbiosis Institute of Technology, Pune </h4>
 <h4 align="center"> ⚡ Generation Google Scholar | Gold- Microsoft Learn Student Ambassador | Track Leader at Microsoft Edge Addons Community(MLSA) | vGHC Scholar'21 </h4>
 <h4 align="center"> 💎 Product Manager at Paragon One </h4>
-<h4 align="center"> 🌱 Currently learning DSA, Development and Product Management</h4>
+<h4 align="center"> 🌱 Currently learning and creating projects in Machine Learning, Web Development and Cloud</h4>
 <h4 align="center"> 👯 Let's Talk About Software, Cloud, Product, Growth and Community </h4>
 <hr>
 
