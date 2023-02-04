@@ -12,6 +12,7 @@
 <h4 align="center"> ⚡ Generation Google Scholar | Gold- Microsoft Learn Student Ambassador | Track Leader at Microsoft Edge Addons Community(MLSA) | vGHC Scholar'21 </h4>
 <h4 align="center"> 💎 Product Manager at Paragon One </h4>
 <h4 align="center"> 🌱 Currently learning and creating projects in Machine Learning, Web Development and Cloud</h4>
+<h4 align="center"> ✒️ I co-authored the <a href="https://learn.microsoft.com/en-us/training/modules/intro-azure-functions/">Intro to Azure Functions Module</a> and contributed to the <a href"https://github.com/microsoft/Data-Science-For-Beginners">Data Science for Beginners Curriculum by Microsoft</a></h4>
 <h4 align="center"> 👯 Let's Talk About Software, Cloud, Product, Growth and Community </h4>
 <hr>
 
