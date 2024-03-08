@@ -8,7 +8,7 @@
  
 <h3 align="center"> <img src= "https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=I+am+a+Computer+Science+Undergraduate+;I+am+a+Developer+and+Product+Manager;Tech+Community+Growth+and+Product" > </h3> <hr>
 
-<h4 align="center"> 📝 Pre-final year student, pursuing Btech Computer Science at Symbiosis Institute of Technology, Pune </h4>
+<h4 align="center"> 📝 Final year student, pursuing Btech Computer Science at Symbiosis Institute of Technology, Pune </h4>
 <h4 align="center"> ⚡ Generation Google Scholar | Gold- Microsoft Learn Student Ambassador | Track Leader at Microsoft Edge Addons Community(MLSA) | vGHC Scholar'21 </h4>
 <h4 align="center"> 💎 Product Manager at Paragon One </h4>
 <h4 align="center"> 🌱 Currently learning and creating projects in Machine Learning, Web Development and Cloud</h4>
